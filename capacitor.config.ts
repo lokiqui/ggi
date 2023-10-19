@@ -1,8 +1,8 @@
 import { CapacitorConfig } from '@capacitor/cli';
 
 const config: CapacitorConfig = {
-  appId: 'ionic.ggi',
-  appName: 'ggi',
+  appId: 'auth.yt',
+  appName: 'auth-yt',
   webDir: 'www',
   server: {
     androidScheme: 'https'

@@ -1,7 +1,7 @@
 {
-  "name": "ggi",
+  "name": "auth-yt",
   "integrations": {
     "capacitor": {}
   },
-  "type": "angular-standalone"
+  "type": "custom"
 }
